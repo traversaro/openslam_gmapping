@@ -4,7 +4,7 @@
 //#include <gsl/gsl_randist.h>
 //#include <gsl/gsl_eigen.h>
 //#include <gsl/gsl_blas.h>
-#include <math.h>
+#include <cmath>
 #include "gmapping/utils/stat.h"
 
 namespace GMapping {
